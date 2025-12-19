@@ -1,0 +1,11 @@
+{
+    "rate": 175,
+    "volume": 1.0,
+    "reminders": [],
+    "timezone": "Asia/Kolkata",
+    "use_edge_tts": true,
+    "python.pythonPath": "C:\\Users\\My pc\\Desktop\\dummy\\venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+    "C:\\Users\\My pc\\Desktop\\dummy\\venv\\Lib\\site-packages"
+  ]
+}
